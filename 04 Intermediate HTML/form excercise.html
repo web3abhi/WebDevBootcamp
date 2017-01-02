@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+	<head>
+		<title>forms</title>
+	</head>
+	<body>
+	<h2>Register</h2>
+		<form action="">
+			<label>First Name:</label>
+			<input type="text" placeholder="John" required>
+			<label>Last Name:</label>
+			<input type="text" placeholder="Smith" required><br>
+			
+			<label>Male:</label>
+			<input type="radio" name="gender" value="male">
+			<label>Female:</label>
+			<input type="radio" name="gender" value="female">
+			<label>Others:</label>
+			<input type="radio" name="gender" value="others">
+			<br>
+			<label for="email">Email: </label>
+			<input id="email" type="email" placeholder="your email">
+			<label for="password">Password: </label>
+			<input id="password" type="password">
+			<br />
+			<label>Birthday:</label>
+			<select name="Month">
+				<option>January</option>
+				<option>February</option>
+				<option>March</option>
+				<option>April</option>
+				<option>May</option>
+				<option>June</option>
+				<option>July</option>
+				<option>August</option>
+				<option>September</option>
+				<option>October</option>
+				<option>November</option>
+				<option>December</option>
+			</select>
+
+			<br>
+			<label>I agree to the terms and conditions</label>
+			<input type="checkbox" name="agreement">
+			<br />
+
+			<input type="submit">
+		</form> 
+	</body>
+</html>
