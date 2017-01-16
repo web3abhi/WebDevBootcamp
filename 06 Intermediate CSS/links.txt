@@ -1,0 +1,6 @@
+//css font stack
+http://www.cssfontstack.com/
+//google fonts
+https://fonts.google.com/
+//hr styles
+https://css-tricks.com/examples/hrs/
