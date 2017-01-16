@@ -1,0 +1,18 @@
+//CSS selectors
+
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+
+//-------------------------------------
+
+
+//specificity calcultor
+
+https://specificity.keegan.st/
+
+
+//-------------------------------------
+
+//what is specificity
+
+https://css-tricks.com/specifics-on-css-specificity/
