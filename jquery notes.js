@@ -56,6 +56,9 @@ if (event.which === 13)//when user press Enter from char codes
 
 Events Lsiteners-
 $("").on("event",callbackFunction) 
+//.click() vs .on("click",func())
+click() only adds listener for existing elements
+whereas on() adds listener for potential elements
 
 Effects-
 .fadeOut(1000,function(){})
@@ -64,3 +67,14 @@ Effects-
 .slideUp()
 .slideDown()
 .slideToggle()
+
+Event bubbling-
+//events fired inside out
+//cured by
+event.stopPropagation()
+
+Append elements-
+.append("html");
+
+Html crawling-
+.parent()
