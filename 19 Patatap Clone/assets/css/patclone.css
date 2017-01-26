@@ -1,0 +1,13 @@
+/* Make the canvas be black and all over the place */
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  background: black;
+}
