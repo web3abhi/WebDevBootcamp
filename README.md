@@ -15,8 +15,8 @@
 * DOM Manipulation --> Completed
 * jQuery --> Completed
 * Unix(Command Line) Commands  --> Completed
-* NodeJS 
-* NPM
+* NodeJS --> Completed
+* NPM --> Completed
 * ExpressJS
 * REST
 * MongoDB
