@@ -19,7 +19,8 @@ $("selector").Css("property","value")
 - can change multiple properties of multiple elements
 
 ### text-
-```$("selector").text()//return textContent
+```
+$("selector").text()//return textContent
 $("selector").text("new text")
 ```
 manipulate 
