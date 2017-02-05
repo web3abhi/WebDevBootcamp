@@ -1,0 +1,13 @@
+<h1>Your movies:</h1>
+
+<ul>
+	<% body["Search"].forEach(function(movie){ 
+		var url=movie["Poster"];
+		%>
+	<li>
+			<img src=url>
+			<h3><%= movie["Title"] %>-<%= movie["Year"] %></h3>
+			
+	</li>
+	<% }) %>
+</ul>

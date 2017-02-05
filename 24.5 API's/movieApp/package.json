@@ -1,0 +1,16 @@
+{
+  "name": "movieapp",
+  "version": "1.1.1",
+  "description": "app that uses omdb api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek sharma",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "request": "^2.79.0"
+  }
+}
