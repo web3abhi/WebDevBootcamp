@@ -17,7 +17,8 @@
 * Unix(Command Line) Commands  --> Completed
 * NodeJS --> Completed
 * NPM --> Completed
-* ExpressJS
+* ExpressJS --> Completed
+* API
 * REST
 * MongoDB
 * Database Associations
