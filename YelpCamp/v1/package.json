@@ -1,0 +1,16 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "yelpcamp app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
