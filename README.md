@@ -6,18 +6,17 @@
 ##Created by Colt Steele for Udemy
 
 ###These are my solutions,notes and editorials for this complete web development course
-### Started this course on 12/1/2017
 
-## This course will cover 
-* HTML5 --> Completed
-* CSS3 --> Completed
-* Bootstrap --> Completed
-* DOM Manipulation --> Completed
-* jQuery --> Completed
-* Unix(Command Line) Commands  --> Completed
-* NodeJS --> Completed
-* NPM --> Completed
-* ExpressJS --> Completed
+## This course covers
+* HTML5
+* CSS3
+* Bootstrap
+* DOM Manipulation
+* jQuery
+* Unix Commands
+* NodeJS
+* NPM
+* ExpressJS
 * API
 * REST
 * MongoDB
